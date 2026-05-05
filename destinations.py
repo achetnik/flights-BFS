@@ -1,4 +1,4 @@
-"""Belfast International Airport (BFS) destinations — April 2026."""
+"""Belfast International Airport (BFS) destinations — May 2026."""
 
 DESTINATIONS = {
     "BFS": {
@@ -16,7 +16,6 @@ DESTINATIONS = {
             "BRS": "Bristol",
             "CDG": "Paris CDG",
             "CGN": "Cologne Bonn",
-            "CUN": "Cancun",
             "DBV": "Dubrovnik",
             "DLM": "Dalaman",
             "EDI": "Edinburgh",
@@ -25,7 +24,7 @@ DESTINATIONS = {
             "FUE": "Fuerteventura",
             "GLA": "Glasgow",
             "GRO": "Girona",
-            "HRG": "Hurghada",
+            "GVA": "Geneva",
             "JER": "Jersey",
             "KRK": "Krakow",
             "LBA": "Leeds Bradford",

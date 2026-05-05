@@ -25,44 +25,81 @@ jobs:
       max-parallel: 10
       matrix:
         destination:
+
           - ACE
+
           - AGP
+
           - ALC
+
           - AMS
+
           - AYT
+
           - BCN
+
           - BGY
+
           - BHX
+
           - BOD
+
           - BRS
+
           - CDG
+
           - CGN
-          - CUN
+
           - DBV
+
           - DLM
+
           - EDI
+
           - EMA
+
           - FAO
+
           - FUE
+
           - GLA
+
           - GRO
-          - HRG
+
+          - GVA
+
           - JER
+
           - KRK
+
           - LBA
+
           - LCA
+
           - LGW
+
           - LPA
+
           - LPL
+
           - LTN
+
           - MAN
+
           - MLA
+
           - NCL
+
           - OPO
+
           - PMI
+
           - REU
+
           - SOU
+
           - STN
+
           - TFS
 
     steps:
